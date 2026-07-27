@@ -1,24 +1,35 @@
-# Hi, I'm Nyaknno Etuk 👋
+Nyaknno Etuk
+Frontend Web Developer | Python Developer
 
-Frontend Developer | Backend developer | Python Developer
+✔ Modern Web Development
+✔ React & Next.js
+✔ TypeScript
+✔ Python
 
-I build modern, responsive web applications using React, Next.js, TypeScript, and Tailwind CSS.
+-----------------------------------------
 
-## Technologies
+🚀 Featured Projects
 
-- Next.js
-- React
-- TypeScript
-- JavaScript
-- Python
-- Tailwind CSS
-- Git & GitHub
-- HTML5 & CSS3
+🏢 Project Management Website
+🏨 Hotel Booking App
+🖥 Python CBT System
+⛪ Church Website
 
-## Current Project
+-----------------------------------------
 
-🚀 Developing a marketing website for a project management company.
+🛠 Tech Stack
 
+HTML
+CSS
+JavaScript
+TypeScript
+React
+Next.js
+Tailwind CSS
+Python
+Git
+
+-----------------------------------------
 ## Contact
 
 LinkedIn: www.linkedin.com/in/nyaknnoetukj
